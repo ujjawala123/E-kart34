@@ -1,4 +1,7 @@
+Ekart project with  framework: This is a sample project creted for ecoomerece using python, html, css and django Use requirements.txt for libararies/dependencies.
+
 # E-kart34
+
 Shopping e-kart ecommerce static website 
 This project contain following functionality.
 1)Register
